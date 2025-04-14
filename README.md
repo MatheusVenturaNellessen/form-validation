@@ -64,6 +64,9 @@ FORM-VALIDATOR/
 <div align="center">
   <img src="./assets/img/demonstration.gif" alt="Imagem animada de demosntração das funcionalidades do site" height="450px">
 </div>
+<br>
+<p>Durante a demonstração, foi utilizado o site <a href="https://www.4devs.com.br/gerador_de_cpf" target="_blank">4Devs - Gerador de CPF</a> para gerar um CPF válido fim de demonstar validação do projeto.</p>
+<p>Todos os direitos sobre o conteúdo e funcionalidades do site pertencem aos seus desenvolvedores</p>
 
 <hr>
 
